@@ -1,4 +1,4 @@
-# objectOrientedProgramming
+# Object Oriented Programming
 Patika.dev - Object Oriented Programming konusu ödevleri
 
 
